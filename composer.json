@@ -1,0 +1,19 @@
+{
+    "name": "divakar/contact",
+    "description": "This is demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Divakar",
+            "email": "divakarrajodiya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Divakar\\Contact\\": "src/"
+        }
+    }
+}
